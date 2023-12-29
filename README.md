@@ -1,0 +1,1 @@
+# ecom_anime_frontend
